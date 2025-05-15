@@ -1,16 +1,24 @@
-<<<<<<< HEAD
-# React + Vite
+#YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Project Overview:<br>
+This is a YouTube clone built with React.js and styled with Tailwind CSS. The application mimics the core functionality and UI of YouTube, allowing users to browse videos, watch content, search for videos, and explore different categories.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Technologies Used:<br>
+React.js (Functional Components with Hooks).<br>
+React Router for navigation.<br>
+Tailwind CSS for styling.<br>
+Axios for API requests.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# yt-clone
->>>>>>> bf138d28fe28b880bdcaf3d22643f51c8e2ed036
+Core Functionality:<br>
+Video Player: Watch YouTube videos with a responsive player.<br>
+Search Functionality: Search for videos with real-time suggestions.<br>
+Video Recommendations: Sidebar with related/suggested videos.<br>
+Responsive Design: Works on mobile, tablet, and desktop screens.<br>
+UI Components:<br>
+Navigation bar with search functionality.<br>
+Video cards with thumbnails, titles, and channel info.<br>
+Video detail page with description, comments, and likes.<br>
+Category/channel browsing.<br>
+Responsive sidebar with subscriptions and trending sections.
