@@ -16,6 +16,7 @@ Video Player: Watch YouTube videos with a responsive player.<br>
 Search Functionality: Search for videos with real-time suggestions.<br>
 Video Recommendations: Sidebar with related/suggested videos.<br>
 Responsive Design: Works on mobile, tablet, and desktop screens.<br>
+
 #UI Components:<br>
 Navigation bar with search functionality.<br>
 Video cards with thumbnails, titles, and channel info.<br>
