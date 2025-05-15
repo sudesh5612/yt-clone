@@ -5,18 +5,18 @@ This is a YouTube clone built with React.js and styled with Tailwind CSS. The ap
 
 
 
-Technologies Used:<br>
+#Technologies Used:<br>
 React.js (Functional Components with Hooks).<br>
 React Router for navigation.<br>
 Tailwind CSS for styling.<br>
 Axios for API requests.
 
-Core Functionality:<br>
+#Core Functionality:<br>
 Video Player: Watch YouTube videos with a responsive player.<br>
 Search Functionality: Search for videos with real-time suggestions.<br>
 Video Recommendations: Sidebar with related/suggested videos.<br>
 Responsive Design: Works on mobile, tablet, and desktop screens.<br>
-UI Components:<br>
+#UI Components:<br>
 Navigation bar with search functionality.<br>
 Video cards with thumbnails, titles, and channel info.<br>
 Video detail page with description, comments, and likes.<br>
